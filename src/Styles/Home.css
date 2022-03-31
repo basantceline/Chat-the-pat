@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.container1 {
+    width:90%;
+    margin:50px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+ .cookB,.cashierB{
+     font-size: 3rem;
+     padding: 0.5em;
+     margin:0.5em;
+     display: block;
+     text-decoration: none;
+        border-radius: 0.23em;
+    color: white;
+    background: green;
+    transition: 0.3s;
+    
+ }
+ .cookB:hover, .cashierB:hover{
+    box-shadow: 10px 10px 6px lightgreen;
+    padding: 0.6em;
+     margin:0.6em;
+ }
+ 

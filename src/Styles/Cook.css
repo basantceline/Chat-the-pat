@@ -1,0 +1,9 @@
+.cook{
+    width:95%;
+    margin: 100px auto;
+}
+.cook p{
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
